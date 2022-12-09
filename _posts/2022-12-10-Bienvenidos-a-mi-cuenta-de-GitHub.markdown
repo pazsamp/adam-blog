@@ -8,3 +8,10 @@ tags: [Blog, Iniciando]
 author: Paz Sampedro # Add name author (optional)
 ---
 
+Y como ejemplo de las especies que habitan en el Golfo Ártabro, aquí os dejo una foto de las dos especies de salmonetes:
+
+![Salmonetes]({{site.baseurl}}/assets/img/salmonetes.jpg)
+
+Os deseo un buen día,
+
+Paz
